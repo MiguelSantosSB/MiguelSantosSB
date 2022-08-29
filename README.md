@@ -1,4 +1,4 @@
-## Oiii eu sou a Miguel Santos, estudante em busca de seguir carreira na área de segurança digital! 👋
+## Oiii eu sou a Miguel Santos, estou atualmente me aventurando pela linguagem Python 👋
 
 <div align="center">
   <a href="https://github.com/MiguelSantosSB">
