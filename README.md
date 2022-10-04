@@ -1,4 +1,4 @@
-## Oiii eu sou a Miguel Santos, estou atualmente me aventurando pela linguagem Python 👋
+## Oiii 👋
 
  <div align="center">
     <a href="https://github.com/MiguelSantosSB">
