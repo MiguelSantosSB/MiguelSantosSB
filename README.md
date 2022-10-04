@@ -1,10 +1,10 @@
 ## Oiii eu sou a Miguel Santos, estou atualmente me aventurando pela linguagem Python 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelSantosSB&show_icons=true&theme=tokyonight" />
+  <img align="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelSantosSB&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&theme=tokyonight" />
+  <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&theme=tokyonight" />
 </a>
 
 <div style="display: inline_block"><br>
