@@ -1,13 +1,8 @@
 # 💫 About Me:
 ⚡ Futuro desenvolvedor
 
-
 # 📊 GitHub Stats:
- <div align="center">
-    <a href="https://github.com/MiguelSantosSB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelSantosSB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
+![MiguelSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSantosSB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&card_width=180em) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&theme=tokyonight)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-santos-305a42224/) 
