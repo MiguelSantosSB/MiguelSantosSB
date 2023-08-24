@@ -5,7 +5,7 @@
 ![MiguelSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSantosSB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&card_width=180em) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&theme=tokyonight)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-santos-305a42224/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/miguel-santos-305a42224/) 
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
@@ -16,7 +16,6 @@
 </div>
 
 ___
-[![](https://visitcount.itsvg.in/api?id=MiguelSantosSB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
