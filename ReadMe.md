@@ -1,6 +1,3 @@
-# 💫 About Me:
-⚡ Futuro desenvolvedor
-
 # 📊 GitHub Stats:
 ![MiguelSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSantosSB&show_icons=true&theme=tokyonight&card_width=180em) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&theme=tokyonight)
 
